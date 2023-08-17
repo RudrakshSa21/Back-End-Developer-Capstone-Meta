@@ -9,6 +9,7 @@ mysqlclient = "*"
 pymysql = "*"
 cryptography = "*"
 djangorestframework = "*"
+djoser = "*"
 
 [dev-packages]
 
